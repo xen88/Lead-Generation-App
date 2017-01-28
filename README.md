@@ -21,4 +21,4 @@ This is a work in progress.
 
 ### Screenshots
 
- ![Lead Gen](https://s24.postimg.org/my49u8ndh/leadgen_cropped.png)
+ ![Lead Gen](https://s23.postimg.org/qdk4cxsaj/leadgen_cropped2.png)
