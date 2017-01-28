@@ -11,6 +11,21 @@ body {
 .jumbotron {
     padding: 10rem 0rem !important;
 }
+.jumbotron {
+    overflow: hidden;
+    position: relative;
+}
+.jumbotron:before {
+    content: "";
+    position: absolute;
+    background-image: url(http://media.istockphoto.com/vectors/abstract-scribble-lines-seamless-pattern-design-vector-id518590168?s=235x235) !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 500px;
+    opacity: 0.06;
+}
 .Index form {
     padding: 4rem;
 }
