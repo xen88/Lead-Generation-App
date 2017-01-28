@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router';
-import { Row, Col, FormGroup, ControlLabel, FormControl, Button } from 'react-bootstrap';
+import { Grid, Row, Col, FormGroup, ControlLabel, FormControl, Button } from 'react-bootstrap';
 import handleLogin from '../../modules/login';
 
 export default class Login extends React.Component {
@@ -15,6 +15,7 @@ export default class Login extends React.Component {
   render() {
     return (
       <div className="Login">
+        <Grid>
         <Row>
           <Col xs={ 12 } sm={ 6 } md={ 4 }>
             <h4 className="page-header">Login</h4>
@@ -48,6 +49,7 @@ export default class Login extends React.Component {
             </form>
           </Col>
         </Row>
+      </Grid>
       </div>
     );
   }

@@ -14,10 +14,10 @@ if (!Meteor.isProduction) {
   const settings = [
     {
       type: 'General',
-      app_name: 'Petition App',
+      app_name: 'LeadPro',
       app_logo: '#',
-      app_title: 'Petition App',
-      app_subtitle: 'Petition app'
+      app_title: 'Lead Generation App',
+      app_subtitle: 'Mobile friendly, easy to use lead capturing for your business.'
     }
   ]
 

@@ -4,7 +4,7 @@ import { Grid, Row, Col, Button } from 'react-bootstrap';
 import PetitionFieldsList from '../containers/PetitionFieldsList.js';
 
 const PetitionFields = () => (
-  <Grid>
+  <Grid fluid>
   <div className="PetitionFields">
     <Row>
       <Col xs={ 12 }>

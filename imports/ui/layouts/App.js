@@ -5,7 +5,7 @@ import AppNavigation from '../containers/AppNavigation.js';
 const App = ({ children }) => (
   <div>
     <AppNavigation />
-    <Grid bsClass=" noPadding dark light_ container-fluid wrapper">
+    <Grid bsClass=" noPadding dark_ light container-fluid wrapper">
       { children }
     </Grid>
   </div>

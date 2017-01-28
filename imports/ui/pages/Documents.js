@@ -7,7 +7,7 @@ import Hero from '../containers/Hero.js';
 const Documents = () => (
   <div>
   <Hero />
-  <Grid>
+  <Grid fluid>
   <div className="Documents">
     <Row>
       <Col xs={ 12 }>

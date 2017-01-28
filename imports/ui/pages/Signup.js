@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router';
-import { Row, Col, FormGroup, ControlLabel, FormControl, Button } from 'react-bootstrap';
+import { Grid, Row, Col, FormGroup, ControlLabel, FormControl, Button } from 'react-bootstrap';
 import handleSignup from '../../modules/signup';
 
 export default class Signup extends React.Component {
@@ -15,6 +15,7 @@ export default class Signup extends React.Component {
   render() {
     return (
       <div className="Signup">
+        <Grid>
         <Row>
           <Col xs={ 12 } sm={ 6 } md={ 4 }>
             <h4 className="page-header">Sign Up</h4>
@@ -69,6 +70,7 @@ export default class Signup extends React.Component {
             <p>Already have an account? <Link to="/login">Log In</Link>.</p>
           </Col>
         </Row>
+      </Grid>
       </div>
     );
   }

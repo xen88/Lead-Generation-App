@@ -22,9 +22,9 @@ const FieldsList = ({ petitionfields }) => (
         </FormGroup>
 
     ))}
-    <Button type="submit" className="btn btn-primary btn-block btn-xxl fixed-bottom ">
+    <Button type="submit" className="btn btn-info btn-block btn-xxl fixed-bottom ">
       <span className="roboto white bold uppercase">
-      Submit Petition <i className="mrx mrx-arrow-right"></i>
+      Submit <i className="mrx mrx-arrow-right"></i>
       </span>
     </Button>
 </ListGroup></form>

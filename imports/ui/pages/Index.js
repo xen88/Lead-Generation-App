@@ -8,7 +8,7 @@ const Index = () => (
 
   <div className="Index">
     <Hero />
-    <Grid>
+    <Grid fluid>
       <FieldsList />
     </Grid>
   </div>
