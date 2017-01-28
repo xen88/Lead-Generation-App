@@ -21,4 +21,4 @@ This is a work in progress.
 
 ### Screenshots
 
- ![Lead Gen](https://s23.postimg.org/qdk4cxsaj/leadgen_cropped2.png)
+ ![ACME Inc. Lead Gen](https://s27.postimg.org/bj2qsmf1v/leadgen_cropped3.png)
