@@ -7,8 +7,12 @@
 - React
 
 
-* Not Production Ready !!
-This is a work in progress.
+
+
+*Not Production Ready !!*
+*This is a work in progress.*
+
+
 
 ### Todo
 
@@ -18,6 +22,7 @@ This is a work in progress.
 - Coupon / Offer Database
 - UI & Backend Create tests
 - Migrate away from Meteor
+
 
 ### Screenshots
 

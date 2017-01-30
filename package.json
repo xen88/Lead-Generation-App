@@ -1,7 +1,7 @@
 {
   "name": "infinity-lead-generation",
   "version": "1.0.0",
-  "description": "Lead Generation or Petition Builder App.",
+  "description": "Lead Generation App.",
   "scripts": {
     "start": "meteor --settings settings-development.json",
     "test": "meteor test --driver-package practicalmeteor:mocha --port 5000",
